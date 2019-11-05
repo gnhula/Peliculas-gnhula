@@ -29,7 +29,7 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][/COLOR][COLOR light blue]                                            Update:[/COLOR][COLOR yellow] 18[/COLOR]-Octubre-2019[COLOR cyan][COLOR  lime][/COLOR]  [/COLOR]</name>
+      <name>[COLOR cyan][/COLOR][COLOR light blue]                                            Update:[/COLOR][COLOR yellow] 04[/COLOR]-Noviembre-2019[COLOR cyan][COLOR  lime][/COLOR]  [/COLOR]</name>
   <thumbnail>http://kentuckyrec.com/site/wp-content/uploads/2013/07/Update.jpg</thumbnail>
 <fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
 <link>http://ignoreme</link>
@@ -52,7 +52,7 @@
   <thumbnail>https://i.ibb.co/c327yQP/logo1.png</thumbnail>
 <fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>http://pastebin.com</externallink>
+   <externallink>https://raw.githubusercontent.com/gnhula/Peliculas-gnhula/master/menus.xml</externallink>
 </channel>
   </channels>
  
