@@ -3,12 +3,12 @@
 <channels>
     <channels_info>
       <title>[COLOR yellow]Gnhula[/COLOR]</title>
-      <genre>IPTV</genre>
-      <description>Lista de canales IPTV</description>
+      <genre>Peliculas</genre>
+      <description>Ver peliculas hd</description>
       <thumbnail>https://i.ibb.co/c327yQP/logo1.png</thumbnail>
-      <fanart>http://kodi.tv/wp-content/uploads/banner-sbs-11-600x336.png</fanart>
-      <date>29.06.2015</date>
-      <credits>Gracias a Ecuafulltotal</credits>
+      <fanart>https://i.ibb.co/NYnjMPs/godzilla.jpg</fanart>
+      <date>07.11.2019</date>
+      <credits>Gracias a Gnhula</credits>
     </channels_info>
 <channels>
 
@@ -16,7 +16,7 @@
 <channel>
       <name>[COLOR cyan][/COLOR][COLOR yellow]                                                            Gnhula[/COLOR]</name>
   <thumbnail>https://i.ibb.co/c327yQP/logo1.png</thumbnail>
-<fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
+<fanart>https://i.ibb.co/NYnjMPs/godzilla.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>http://pastebin.com</externallink>
 </channel>
@@ -29,9 +29,9 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][/COLOR][COLOR light blue]                                            Update:[/COLOR][COLOR yellow] 18[/COLOR]-Octubre-2019[COLOR cyan][COLOR  lime][/COLOR]  [/COLOR]</name>
+      <name>[COLOR cyan][/COLOR][COLOR light blue]                                            Update:[/COLOR][COLOR yellow] 07[/COLOR]-Noviembre-2019[COLOR cyan][COLOR  lime][/COLOR]  [/COLOR]</name>
   <thumbnail>http://kentuckyrec.com/site/wp-content/uploads/2013/07/Update.jpg</thumbnail>
-<fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
+<fanart>https://i.ibb.co/NYnjMPs/godzilla.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>http://pastebin.com</externallink>
 </channel>
@@ -50,7 +50,7 @@
 <channel>
       <name>[COLOR cyan][COLOR  lime]•  [/COLOR] Peliculas[/COLOR]</name>
   <thumbnail>https://i.ibb.co/c327yQP/logo1.png</thumbnail>
-<fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
+<fanart>https://i.ibb.co/NYnjMPs/godzilla.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>http://pastebin.com</externallink>
 </channel>
@@ -66,9 +66,9 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  lime]•  [/COLOR] Infantiles[/COLOR]</name>
+      <name>[COLOR cyan][COLOR  lime]•  [/COLOR] Animacion[/COLOR]</name>
   <thumbnail>https://i.ibb.co/c327yQP/logo1.png</thumbnail>
-<fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
+<fanart>https://i.ibb.co/NYnjMPs/godzilla.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>http://pastebin.com</externallink>
 </channel>
@@ -79,9 +79,9 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  lime]•  [/COLOR] Sagas[/COLOR]</name>
+      <name>[COLOR cyan][COLOR  lime]•  [/COLOR] Netflix[/COLOR]</name>
   <thumbnail>https://i.ibb.co/c327yQP/logo1.png</thumbnail>
-<fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
+<fanart>https://i.ibb.co/2kBMmD6/logonetflix.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>http://pastebin.com</externallink>
 </channel>
