@@ -3,9 +3,9 @@
  
  
 <channel>
-    <name>          <<<<<<<<<Deportes>>>>>>>></name>
-    <thumbnail>http://1.bp.blogspot.com/-bDos023a_yE/VpUfT7Jqd6I/AAAAAAAAE-8/pfCuzeOSIBE/s1600/4.jpg</thumbnail>
-    <fanart>http://cdn.wonderfulengineering.com/wp-content/uploads/2014/10/wallpaper-photos-4.jpg</fanart>
+    <name>          <<<<<<<<<Animacion>>>>>>>></name>
+    <thumbnail>https://i.ibb.co/c327yQP/logo1.png</thumbnail>
+    <fanart>https://i.ibb.co/QD4GC6t/el-rey-leon.jpg</fanart>
         <items>
 
 
@@ -22,10 +22,10 @@
 
 
                         <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Pronto</title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://pastebin.com</link>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Batman vs. las Tortugas Ninja</title>
+                        <fanart>https://i.ibb.co/QpTxPyb/btman.jpg</fanart>
+                        <thumbnail>https://i.ibb.co/pWyqxqJ/btm.jpg</thumbnail>
+                        <link>http://195.154.220.114/PELICULAS/PELICULAS%202019/Batman%20vs%20Las%20Tortugas%20Ninja%20-%202019.mp4</link>
                         </item>
 
 
@@ -33,9 +33,25 @@
 
                         <item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] Pronto</title>
+                        <fanart>https://i.ibb.co/rKPDp4D/super2.jpg</fanart>
+                        <thumbnail>https://i.ibb.co/hsK4w5R/super.jpg</thumbnail>
+                        <link>http://195.154.220.114/PELICULAS/PELICULAS%202019/El%20reino%20de%20los%20Supermanes%20-%202019.MP4</link>
+                        </item>
+         
+         
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Mascotas 2</title>
+                        <fanart>https://i.ibb.co/gW9qJ87/pets2.jpg</fanart>
+                        <thumbnail>https://i.ibb.co/tYByLgV/mas2.jpg</thumbnail>
+                        <link>http://195.154.220.114/PELICULAS/PELICULAS%202019/La%20Vida%20Secreta%20de%20tus%20Mascotas_2%20-%202019.mp4</link>
+                        </item>
+         
+         
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Pronto</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://pastebin.com</link>
+                        <link></link>
                         </item>
 
 
