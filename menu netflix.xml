@@ -4,11 +4,11 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  lime]•   [/COLOR] Deportes Español[/COLOR]</name>
-  <thumbnail></thumbnail>
+      <name>[COLOR cyan][COLOR  lime]•   [/COLOR] Netflix Hd[/COLOR]</name>
+  <thumbnail>https://i.ibb.co/SVtzT0k/netflix.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://pastebin.com</externallink>
+   <externallink>https://raw.githubusercontent.com/gnhula/Peliculas-gnhula/master/submenu%20netflix.xml</externallink>
 </channel>
   </channels>
 
