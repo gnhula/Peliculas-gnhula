@@ -5,7 +5,7 @@
       <title>[COLOR yellow]Gnhula[/COLOR]</title>
       <genre>Peliculas</genre>
       <description>Ver peliculas hd</description>
-      <thumbnail>https://i.ibb.co/c327yQP/logo1.png</thumbnail>
+      <thumbnail>https://i.ibb.co/TBTCm6q/icon.png</thumbnail>
       <fanart>https://i.ibb.co/NYnjMPs/godzilla.jpg</fanart>
       <date>07.11.2019</date>
       <credits>Gracias a Gnhula</credits>
@@ -15,7 +15,7 @@
  
 <channel>
       <name>[COLOR cyan][/COLOR][COLOR yellow]                                                            Gnhula[/COLOR]</name>
-  <thumbnail>https://i.ibb.co/c327yQP/logo1.png</thumbnail>
+  <thumbnail>https://i.ibb.co/TBTCm6q/icon.png</thumbnail>
 <fanart>https://i.ibb.co/NYnjMPs/godzilla.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>http://pastebin.com</externallink>
@@ -49,7 +49,7 @@
  
 <channel>
       <name>[COLOR cyan][COLOR  lime]•  [/COLOR] Peliculas[/COLOR]</name>
-  <thumbnail>https://i.ibb.co/c327yQP/logo1.png</thumbnail>
+  <thumbnail>https://i.ibb.co/TBTCm6q/icon.png</thumbnail>
 <fanart>https://i.ibb.co/NYnjMPs/godzilla.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/gnhula/Peliculas-gnhula/master/menu%20gnhula.xml</externallink>
@@ -67,7 +67,7 @@
  
 <channel>
       <name>[COLOR cyan][COLOR  lime]•  [/COLOR] Animacion[/COLOR]</name>
-  <thumbnail>https://i.ibb.co/c327yQP/logo1.png</thumbnail>
+  <thumbnail>https://i.ibb.co/TBTCm6q/icon.png</thumbnail>
 <fanart>https://i.ibb.co/NYnjMPs/godzilla.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/gnhula/Peliculas-gnhula/master/menu%20animacion.xml</externallink>
